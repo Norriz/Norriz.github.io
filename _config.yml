@@ -1,8 +1,9 @@
 # Jekyll configuration
 url: https://norriz.github.io/
 theme: minima
+author: Nora
+title: Nora 
 
-title: Nora von Harten
 email: >-
 description: There should be some awesome description. Not sure tho.
 
