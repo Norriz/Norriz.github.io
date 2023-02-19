@@ -1,5 +1,5 @@
 # Jekyll configuration
 url: https://norriz.github.io/
 theme: minima
-authoer: Nora von Harten
+author: Nora von Harten
 highlighter: rouge
