@@ -13,5 +13,6 @@ email: >-
 description: There should be some awesome description. Not sure tho.
 
 # user acc
-github_username:  Norriz
-linkedin_username:  something :)
+footer-links:
+  github: Norriz
+  linkedin_username:  something :)
