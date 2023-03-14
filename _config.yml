@@ -2,8 +2,8 @@
 url: https://norriz.github.io/
 
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-remote_theme: benbalter/retlab
+- jekyll-remote-theme
+remote_theme: pages-themes/dinky@v0.2.0
 
 
 author: Norriz
